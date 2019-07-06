@@ -20,10 +20,6 @@ it, simply add the following line to your Podfile:
 pod 'TestPodLib'
 ```
 
-## Author
-
-lanfudong, lanfudong@58.com
-
 ## License
 
 TestPodLib is available under the MIT license. See the LICENSE file for more info.
